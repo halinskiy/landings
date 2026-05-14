@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[4351,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudCursor"]
+5:I[6772,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudHero"]
+6:I[7578,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudSpecimen"]
+7:I[9479,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudPlayground"]
+8:I[6945,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudLicense"]
+9:I[4391,["141","static/chunks/141-35da6824c026b5ba.js","974","static/chunks/app/page-59df20990cb35604.js"],"LoudMarquee"]
+a:I[4431,[],"OutletBoundary"]
+c:I[5278,[],"AsyncMetadataOutlet"]
+e:I[4431,[],"ViewportBoundary"]
+10:I[4431,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[7150,[],""]
+:HL["/landings/LOUD/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/landings/LOUD/_next/static/media/6ba5f591ae6c56f6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/landings/LOUD/_next/static/media/af4bf8399d1aacdf-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/landings/LOUD/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/landings/LOUD/_next/static/css/c506b01686241834.css","style"]
+0:{"P":null,"b":"SA0yCDmxa7ZqsoxMNI-Kr","p":"/landings/LOUD","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/landings/LOUD/_next/static/css/c506b01686241834.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_3b7b98 __variable_d3232c __variable_d459a9","children":["$","body",null,{"className":"grain","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"loud-gradient relative","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],null,["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"MERIDA. A new display serif from Recension Type Co."}],["$","meta","1",{"name":"description","content":"Twelve weights. Three optical sizes. A typeface that bruises."}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
